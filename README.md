@@ -1,4 +1,4 @@
-# beutify-TON-address
+# beautify-TON-address
 Tool to generate beautify TON addresses.
 
 1. First, [install node.js](https://nodejs.org/en/download/)
