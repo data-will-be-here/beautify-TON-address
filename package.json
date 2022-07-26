@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "tonweb": "^0.0.40",
+    "tonweb-mnemonic": "^1.0.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "axios": "^0.27.2"
+  }
+}
